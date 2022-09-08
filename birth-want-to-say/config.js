@@ -61,5 +61,5 @@ var config = {
     },
 
     // 结束语
-    loveText: '爱你的X先生~'
+    loveText: '爱11515~'
 };
